@@ -35,4 +35,7 @@ for(let i = 0; i < firstName.length; i++){
 }
 console.log(fullName)
 console.log(username)
+
+``
+
  
